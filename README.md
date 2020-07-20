@@ -19,6 +19,7 @@ finito de bandejas ou recipientes de volume V de uma forma que
 minimize o número de recipientes utilizados." Wikipédia, acessado em: 19/07/2020. Website:[https://pt.wikipedia.org/wiki/Problema_do_empacotamento](https://pt.wikipedia.org/wiki/Problema_do_empacotamento)
 
 ![Alt text](./bin_packing.png)
+
 Fonte: [Rohit Kalla: Solve Bin Packing problem in CPLEX](https://www.youtube.com/watch?v=zvMYwx92wcw)
 
 ## Pré-requisitos
